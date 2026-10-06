@@ -1,2 +1,2 @@
 ## Work in progress
-<img width="1080" height="441" alt="output" src="https://github.com/user-attachments/assets/38385855-6880-4078-ba72-ea7864d834e2" />
+<img width="600" height="336" alt="output" src="https://github.com/user-attachments/assets/fc5a0c89-5313-4357-9561-2c4a7f497c5d" />
