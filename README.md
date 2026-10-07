@@ -1,4 +1,7 @@
 ## Work in progress
-<img width="880" height="546" alt="output2" src="https://github.com/user-attachments/assets/472a6ac8-c782-46c8-a1b5-692218f7fcaf" />
+<img width="600" height="372" alt="output2" src="https://github.com/user-attachments/assets/2091ccff-e3de-407a-8137-6420cb077bdc" />
 
+---
+
+<img width="600" height="336" alt="output" src="https://github.com/user-attachments/assets/c12cc537-1fc1-4895-86ff-b3b267b17d64" />
 
