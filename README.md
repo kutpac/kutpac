@@ -27,7 +27,7 @@ I work in two areas. On the data side, I like projects where math meets finance.
       <img src="https://github.com/user-attachments/assets/5f0a4a17-1dce-449e-960d-2dc6e0a15803" width="100%" alt="Nature scene at sunset" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/c12cc537-1fc1-4895-86ff-b3b267b17d64" width="100%" alt="Real-time 3D scene" />
+      <img src="https://github.com/user-attachments/assets/dc790028-77e5-45d8-bdb6-994c4da2d583" width="100%" alt="Real-time 3D scene" />
     </td>
   </tr>
 </table>
